@@ -41,6 +41,7 @@ The analysis results are summarized as follows:
 ### Limitations
 
 - age is not taken into consideration which could vastly change the results
+- Time of day of training may or may not effect effect the strength as testosterone is boosted in the morning so this may effect the results
   
 
 
